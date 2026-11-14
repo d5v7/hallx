@@ -1,8 +1,8 @@
 # hallx（中文）
 
-[![Tests](https://github.com/dhanushk-offl/hallx/actions/workflows/test.yml/badge.svg)](https://github.com/dhanushk-offl/hallx/actions/workflows/test.yml)
-[![Release](https://github.com/dhanushk-offl/hallx/actions/workflows/release.yml/badge.svg)](https://github.com/dhanushk-offl/hallx/actions/workflows/release.yml)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dhanushk-offl/hallx/badge)](https://scorecard.dev/viewer/?uri=github.com/dhanushk-offl/hallx)
+[![Tests](https://github.com/d5v7/hallx/actions/workflows/test.yml/badge.svg)](https://github.com/d5v7/hallx/actions/workflows/test.yml)
+[![Release](https://github.com/d5v7/hallx/actions/workflows/release.yml/badge.svg)](https://github.com/d5v7/hallx/actions/workflows/release.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/d5v7/hallx/badge)](https://scorecard.dev/viewer/?uri=github.com/d5v7/hallx)
 [![PyPI](https://img.shields.io/pypi/v/hallx.svg)](https://pypi.org/project/hallx/)
 
 `hallx` 是一个面向 LLM 输出的轻量级风险评分护栏库。  

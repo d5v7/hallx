@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhanushk-offl/hallx/actions/workflows/test.yml"><img alt="Tests" src="https://github.com/dhanushk-offl/hallx/actions/workflows/test.yml/badge.svg"></a>
-  <a href="https://github.com/dhanushk-offl/hallx/actions/workflows/release.yml"><img alt="Release" src="https://github.com/dhanushk-offl/hallx/actions/workflows/release.yml/badge.svg"></a>
-  <a href="https://scorecard.dev/viewer/?uri=github.com/dhanushk-offl/hallx"><img alt="OpenSSF Scorecard" src="https://api.scorecard.dev/projects/github.com/dhanushk-offl/hallx/badge"></a>
+  <a href="https://github.com/d5v7/hallx/actions/workflows/test.yml"><img alt="Tests" src="https://github.com/d5v7/hallx/actions/workflows/test.yml/badge.svg"></a>
+  <a href="https://github.com/d5v7/hallx/actions/workflows/release.yml"><img alt="Release" src="https://github.com/d5v7/hallx/actions/workflows/release.yml/badge.svg"></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/d5v7/hallx"><img alt="OpenSSF Scorecard" src="https://api.scorecard.dev/projects/github.com/d5v7/hallx/badge"></a>
   <a href="https://pypi.org/project/hallx/"><img alt="PyPI" src="https://img.shields.io/pypi/v/hallx.svg"></a>
   <a href="https://pypistats.org/packages/hallx"><img alt="Downloads / month" src="https://img.shields.io/badge/dynamic/json?label=downloads%2Fmonth&query=data.last_month&url=https%3A%2F%2Fpypistats.org%2Fapi%2Fpackages%2Fhallx%2Frecent&color=0f766e"></a>
   <a href="https://pypi.org/project/hallx/"><img alt="Python" src="https://img.shields.io/pypi/pyversions/hallx.svg"></a>
-  <a href="https://github.com/dhanushk-offl/hallx/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://github.com/d5v7/hallx/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
 
 ## What Is Hallx
@@ -173,17 +173,17 @@ Accepts raw `(name, arguments)` pairs, dicts, OpenAI-style `{function: ...}` pay
 ## Essential Links
 
 ### Languages
-- [English](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.en.md)
-- [Tamil](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.ta.md)
-- [Malayalam](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.ml.md)
-- [Hindi](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.hi.md)
-- [Kannada](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.kn.md)
-- [German](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.de.md)
-- [Japanese](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.ja.md)
-- [Chinese](https://github.com/dhanushk-offl/hallx/blob/master/docs/README.zh.md)
+- [English](https://github.com/d5v7/hallx/blob/master/docs/README.en.md)
+- [Tamil](https://github.com/d5v7/hallx/blob/master/docs/README.ta.md)
+- [Malayalam](https://github.com/d5v7/hallx/blob/master/docs/README.ml.md)
+- [Hindi](https://github.com/d5v7/hallx/blob/master/docs/README.hi.md)
+- [Kannada](https://github.com/d5v7/hallx/blob/master/docs/README.kn.md)
+- [German](https://github.com/d5v7/hallx/blob/master/docs/README.de.md)
+- [Japanese](https://github.com/d5v7/hallx/blob/master/docs/README.ja.md)
+- [Chinese](https://github.com/d5v7/hallx/blob/master/docs/README.zh.md)
 
 ### Community
-- [Contributing](https://github.com/dhanushk-offl/hallx/blob/master/CONTRIBUTING.md)
-- [GitHub Sponsors](https://github.com/sponsors/dhanushk-offl)
+- [Contributing](https://github.com/d5v7/hallx/blob/master/CONTRIBUTING.md)
+- [GitHub Sponsors](https://github.com/sponsors/d5v7)
 - [Buy Me a Coffee](https://buymeacoffee.com/itzmedhanu)
 - [Monthly Downloads (PyPIStats)](https://pypistats.org/packages/hallx)

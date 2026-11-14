@@ -48,7 +48,7 @@ When a violation is reported, maintainers will review and respond in a fair, tim
 If you experience or witness unacceptable behavior:
 
 - Use GitHub Security Advisories for sensitive reports:
-  `https://github.com/dhanushk-offl/hallx/security/advisories/new`
+  `https://github.com/d5v7/hallx/security/advisories/new`
 - For non-sensitive concerns, contact maintainers via repository channels.
 
 All reports will be handled as confidentially as possible.

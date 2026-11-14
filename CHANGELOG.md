@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.1] - 2026-11-14
+
+### Added
+- Evaluation coverage reporting and `insufficient_evidence` verdict when claims lack enough grounding signal
+
+### Changed
+- Updated GitHub username / org links from `dhanushk-offl` to `d5v7` across docs, website, and package metadata
+- Fixed Python 3.9 CI runner for the test matrix
+
 ## [1.1.0] - 2026-08-09
 
 ### Added

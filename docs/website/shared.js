@@ -3,11 +3,11 @@
 const HALLX_SITE = {
   name: 'hallx',
   author: 'Dhanush Kandhan',
-  repoUrl: 'https://github.com/dhanushk-offl/hallx',
-  discussionsUrl: 'https://github.com/dhanushk-offl/hallx/discussions',
+  repoUrl: 'https://github.com/d5v7/hallx',
+  discussionsUrl: 'https://github.com/d5v7/hallx/discussions',
   pypiUrl: 'https://pypi.org/project/hallx/',
   logoUrl: 'https://res.cloudinary.com/dwir71gi2/image/upload/v1774898674/Untitled_2_b5xwxj.png',
-  defaultBaseUrl: 'https://dhanushk-offl.github.io/hallx/docs/website/',
+  defaultBaseUrl: 'https://d5v7.github.io/hallx/docs/website/',
   defaultOgImage: 'og-image.svg',
 };
 
@@ -298,7 +298,7 @@ function injectStructuredData(pageMeta) {
     author: {
       '@type': 'Person',
       name: HALLX_SITE.author,
-      url: 'https://github.com/dhanushk-offl',
+      url: 'https://github.com/d5v7',
     },
     sameAs: [HALLX_SITE.repoUrl, HALLX_SITE.pypiUrl],
     offers: {
@@ -563,11 +563,11 @@ async function loadDocLanguages() {
     ja: 'Japanese',
     zh: 'Chinese',
   };
-  const repoRoot = 'https://github.com/dhanushk-offl/hallx/blob/master/docs/';
+  const repoRoot = 'https://github.com/d5v7/hallx/blob/master/docs/';
 
   let items = [];
   try {
-    const res = await fetch('https://api.github.com/repos/dhanushk-offl/hallx/contents/docs');
+    const res = await fetch('https://api.github.com/repos/d5v7/hallx/contents/docs');
     if (res.ok) {
       const data = await res.json();
       items = (Array.isArray(data) ? data : [])
@@ -652,7 +652,7 @@ async function loadStats() {
 
   let versionTag = '';
   try {
-    const gh = await fetch('https://api.github.com/repos/dhanushk-offl/hallx');
+    const gh = await fetch('https://api.github.com/repos/d5v7/hallx');
     if (gh.ok) {
       const d = await gh.json();
       const stars = d.stargazers_count ?? 0;
@@ -661,7 +661,7 @@ async function loadStats() {
   } catch {}
 
   try {
-    const rel = await fetch('https://api.github.com/repos/dhanushk-offl/hallx/releases/latest');
+    const rel = await fetch('https://api.github.com/repos/d5v7/hallx/releases/latest');
     if (rel.ok) {
       const d = await rel.json();
       versionTag = (d?.tag_name || '').trim();
@@ -670,7 +670,7 @@ async function loadStats() {
 
   if (!versionTag) {
     try {
-      const tags = await fetch('https://api.github.com/repos/dhanushk-offl/hallx/tags?per_page=1');
+      const tags = await fetch('https://api.github.com/repos/d5v7/hallx/tags?per_page=1');
       if (tags.ok) {
         const d = await tags.json();
         versionTag = (d?.[0]?.name || '').trim();
