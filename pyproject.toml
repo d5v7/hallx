@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hallx"
-version = "1.1.0"
+version = "1.1.1"
 description = "Lightweight hallucination risk scoring for LLM outputs"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -35,10 +35,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dhanushk-offl/hallx"
-Repository = "https://github.com/dhanushk-offl/hallx"
-Issues = "https://github.com/dhanushk-offl/hallx/issues"
-Documentation = "https://github.com/dhanushk-offl/hallx#readme"
+Homepage = "https://github.com/d5v7/hallx"
+Repository = "https://github.com/d5v7/hallx"
+Issues = "https://github.com/d5v7/hallx/issues"
+Documentation = "https://github.com/d5v7/hallx#readme"
 
 [project.optional-dependencies]
 nli = [

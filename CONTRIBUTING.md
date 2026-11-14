@@ -73,7 +73,7 @@ Use `Feature request` template and include:
 Do not report security issues in public issues.
 
 Use:
-`https://github.com/dhanushk-offl/hallx/security/advisories/new`
+`https://github.com/d5v7/hallx/security/advisories/new`
 
 ## References
 
